@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shyam</h1>
 <h3 align="center">Meet Shyam, the coding maestro from India! 🚀👨‍💻 Future startup CEO with a passion for technology and space exploration. 🌌 Currently rocking the engineering</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/zTYMsKTG45ppsp7z9">
+<img align="right" alt="loading" width="400" src="https://static.tumblr.com/1ebfb19b2cde802937fe6ef5166af271/qdwxz1v/fygo96jxi/tumblr_static_tumblr_static_61j3hi3646www08kowkgs0gww_focused_v3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamingit&label=Profile%20views&color=0e75b6&style=flat" alt="shyamingit" /> </p>
 
